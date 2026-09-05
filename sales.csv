@@ -1,0 +1,31 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,payment_method,region
+ORD001,2026-08-01,John,Dell Laptop,Electronics,1,45000,Cash,North
+ORD002,2026-08-01,Maria,Wireless Mouse,Accessories,2,750,GCash,South
+ORD003,2026-08-02,Pedro,Keyboard,Accessories,1,1200,Card,North
+ORD004,2026-08-02,Ana,Office Chair,Furniture,2,3500,GCash,East
+ORD005,2026-08-03,John,Monitor,Electronics,1,8500,Card,North
+ORD006,2026-08-03,Carlos,USB Cable,Accessories,5,250,Cash,West
+ORD007,2026-08-04,Maria,Desk,Furniture,1,5500,GCash,South
+ORD008,2026-08-04,Pedro,HP Laptop,Electronics,1,42000,Card,East
+ORD009,2026-08-05,Ana,Wireless Mouse,Accessories,3,750,Cash,East
+ORD010,2026-08-05,Carlos,Office Chair,Furniture,1,3500,GCash,West
+ORD011,2026-08-06,John,Keyboard,Accessories,2,1200,Card,North
+ORD012,2026-08-06,Maria,Monitor,Electronics,2,8500,GCash,South
+ORD013,2026-08-07,Pedro,USB Cable,Accessories,10,250,Cash,North
+ORD014,2026-08-07,Ana,Desk,Furniture,2,5500,Card,East
+ORD015,2026-08-08,Carlos,Dell Laptop,Electronics,1,45000,GCash,West
+ORD016,2026-08-08,John,Office Chair,Furniture,3,3500,Cash,North
+ORD017,2026-08-09,Maria,Wireless Mouse,Accessories,4,750,GCash,South
+ORD018,2026-08-09,Pedro,Monitor,Electronics,1,8500,Card,North
+ORD019,2026-08-10,Ana,Keyboard,Accessories,2,1200,Cash,East
+ORD020,2026-08-10,Carlos,Desk,Furniture,1,5500,GCash,West
+ORD021,2026-08-11,John,HP Laptop,Electronics,2,42000,Card,North
+ORD022,2026-08-11,Maria,USB Cable,Accessories,8,250,GCash,South
+ORD023,2026-08-12,Pedro,Office Chair,Furniture,2,3500,Cash,North
+ORD024,2026-08-12,Ana,Monitor,Electronics,2,8500,Card,East
+ORD025,2026-08-13,Carlos,Wireless Mouse,Accessories,5,750,GCash,West
+ORD026,2026-08-13,John,Desk,Furniture,1,5500,Cash,North
+ORD027,2026-08-14,Maria,Dell Laptop,Electronics,1,45000,Card,South
+ORD028,2026-08-14,Pedro,Keyboard,Accessories,3,1200,GCash,North
+ORD029,2026-08-15,Ana,Office Chair,Furniture,1,3500,Cash,East
+ORD030,2026-08-15,Carlos,Monitor,Electronics,3,8500,Card,West

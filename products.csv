@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price,stock_quantity
+P001,Dell Laptop,Electronics,45000,15
+P002,HP Laptop,Electronics,42000,12
+P003,Monitor,Electronics,8500,25
+P004,Wireless Mouse,Accessories,750,50
+P005,Keyboard,Accessories,1200,40
+P006,USB Cable,Accessories,250,100
+P007,Office Chair,Furniture,3500,20
+P008,Desk,Furniture,5500,15
