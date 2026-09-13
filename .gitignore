@@ -21,6 +21,7 @@ dist/
 .env
 .env.*
 !.env.example
+/sales-analytics/python/.env
 
 # IDE and OS files
 .vscode/
